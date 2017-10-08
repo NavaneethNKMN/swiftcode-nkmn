@@ -9,11 +9,13 @@
     background-position: center
 }
 .message-card{
+    background: url(https://cdn-images-1.medium.com/max/1920/1*9oD9bg_2Lzk96ZQ1zWNofA.png);
+    background-size: 100% 100%;
     max-width:75%;
     border-radius:10px;
     padding:15px;
     font-size:14px;
-    opacity : 0.8;
+    opacity : 1;
     font-family: 'Courgette', cursive;
     font-weight: bold;
     box-shadow: 5px 5px 5px 0px #888888
