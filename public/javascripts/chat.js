@@ -10,7 +10,8 @@ app.config(function ($mdThemingProvider) {
                 })
                 .accentPalette('grey', {
                     'default': '300'
-                });
+                })
+                .dark();
 });
 
 app.controller('chatController', function ($scope, $sce) {
